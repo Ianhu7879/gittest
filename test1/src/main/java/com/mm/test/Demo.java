@@ -8,6 +8,7 @@ package com.mm.test;
  */
 public class Demo {
     public static void main(String[] args) {
-        System.out.println("又增加了一段文字");
+        System.out.println("又增加了一段文字1");
+        System.out.println("又增加了一段文字2");
     }
 }
