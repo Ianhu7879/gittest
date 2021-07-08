@@ -13,5 +13,6 @@ public class Test {
         System.out.println("有添加了一句话");
         System.out.println("");
         System.out.println("github添加了一句话");
+        System.out.println("github添加了一句话2");
     }
 }
